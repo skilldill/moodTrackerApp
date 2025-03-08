@@ -1,0 +1,1 @@
+WITH_SEED=true docker-compose up -d
